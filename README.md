@@ -11,6 +11,8 @@ Computer Science Student at Mahidol University International College
 * 👥 I'm looking to collaborate on data science and web development projects
 * 💬 Manhwa reader | Game | Digital art | DIY enthusiast
 
+<br>
+
 <p align="left">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg"
