@@ -107,7 +107,7 @@ Computer Science Student at Mahidol University International College
 
 <b>My GitHub Stats</b>
 
-[![Beyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iobey77ok&cache_seconds=60&v=1)](https://github.com/iobey77ok/github-readme-stats)
+![Bey's GitHub stats](https://gh-stats-gen.vercel.app/api?username=iobey77ok&show_icons=true&theme=tokyonight)
 
 <a href="http://www.github.com/iobey77ok"><img
         src="https://github-readme-stats.vercel.app/api?username=iobey77ok&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
