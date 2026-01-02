@@ -80,27 +80,26 @@ Computer Science Student at Mahidol University International College
 <p align="left">
     <a href="https://www.github.com/iobey77ok" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-                width="32" height="32" alt="GitHub" title="GitHub" />
+            <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=32&color=%23ffffff&showText=true" 
+                alt="github"  title="GitHub />
         </picture>
     </a>
     <a href="https://www.linkedin.com/in/kittima-juntrarachai-63626430a" target="_blank" rel="noreferrer">
         <picture>
-            <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" alt="linkedin" title="LinkedIn" />
+            <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&showText=true&text=Connect" 
+                alt="linkedin" title="LinkedIn" />
         </picture>
     </a>
     <a href="https://discord.com/users/572770093486833664" target="_blank" rel="noreferrer">
         <picture>
-            <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=32" alt="discord" title="Discord"/>
+            <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=32&showText=true&text=Follow+Me" 
+                alt="discord" title="Discord"/>
         </picture>
     </a>
     <a href="https://instagram.com/77.o_k" target="_blank" rel="noreferrer">
         <picture>
-          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" alt="instagram" title="Instagram" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32&showText=true&text=Follow+Me" 
+              alt="instagram" title="Instagram" />
         </picture>
 </p>
 
