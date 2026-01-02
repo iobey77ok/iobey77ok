@@ -94,7 +94,7 @@ Computer Science Student at Mahidol University International College
     </a>
     <a href="https://discord.com/users/572770093486833664" target="_blank" rel="noreferrer">
         <picture>
-            <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=32&showText=true&text=Follow+Me" 
+            <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=32&showText=true&text=Connect" 
                 alt="discord" title="Discord"/>
         </picture>
     </a>
