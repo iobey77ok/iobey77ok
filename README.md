@@ -6,7 +6,7 @@ Computer Science Student at Mahidol University International College
 
 * 🌍 I'm based in Thailand
 * ✉️ You can contact me at [juntrarachaikittima@gmail.com](mailto:juntrarachaikittima@gmail.com)
-* 🚀 I'm currently working on [github.com/iobey77ok/zoekun-cms-webapp](http://github.com/iobey77ok/zoekun-cms-webapp)
+* 🚀 I'm currently working on [pet-adoption-web-study](https://github.com/iobey77ok/pet-adoption-web-study.git)
 * 🧠 I'm currently learning Node.js, MongoDB, Prisma, React, and DevOps tools
 * 👥 I'm looking to collaborate on data science and web development projects
 * 💬 Manhwa reader | Game | Digital art | DIY enthusiast
