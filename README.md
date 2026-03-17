@@ -104,7 +104,3 @@ Computer Science Student at Mahidol University International College
         </picture>
 </p>
 
-### My GitHub Stats
-
-![Bey's GitHub stats](https://github-readme-stats-five-rho-644zgj49wt.vercel.app/api?username=iobey77ok&show_icons=true&theme=tokyonight)
-
